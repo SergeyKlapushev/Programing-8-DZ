@@ -28,4 +28,5 @@ void Printer(int [] array)
         Console.Write($"{array[i]} ");
     }
     Console.Write($"-> {sum}");
+    
 }
