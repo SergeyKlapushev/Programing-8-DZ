@@ -18,6 +18,7 @@ int [] CreateArray(int len)
 
 void Printer(int [] array)
 {
+    
     int sum = 0;
     for (int i = 0; i < array.Length; i++)
     {
